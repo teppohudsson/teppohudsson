@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @teppohudsson
+- 👋 Hi, I’m @teppohudsson - Co-founder at https://www.precode.ai
 - 👀 I’m interested in Product Management, Development Management and Golf
 - 🌱 I’m currently learning how to lead and communicate better
 - 💞️ I’m looking to collaborate on any development process related issues
