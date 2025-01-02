@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @teppohudsson
-- 👀 I’m interested in Product Management, Development Management and Golf
-- 🌱 I’m currently learning how to lead and communicate better
+- 👀 I’m interested in AI & Data, Development Management, Investing into AI capabilities and Golf
+- 🌱 I’m currently learning how to communicate better
 - 💞️ I’m looking to collaborate on any development process related issues
-- 📫 How to reach me: email teppo@precode.ai or at linkedin https://www.linkedin.com/in/hudsson/
+- 📫 How to reach me: linkedin https://www.linkedin.com/in/hudsson/
 
 <!---
 teppohudsson/teppohudsson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
